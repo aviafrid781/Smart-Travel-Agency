@@ -1,0 +1,74 @@
+[
+    {
+        "name": "USA",
+        "cost": 700,
+        "days": 6,
+        "discount": 25,
+        "discription": "As one of the largest and most diverse countries in the world, The United States boast an amazing amount of tourist destinations ranging from the skyscrapers of New York and Chicagoand Alaska to the sunny beaches of California, Florida .",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWGqH5pChuN4Nw9AUWZnVakaCCwTLiJSEbVw&usqp=CAU"
+    },
+    {
+        "discount": 20,
+        "name": "France",
+        "cost": 3000,
+        "days": 3,
+        "discription": "Discover the essence of France—its rich history, culture, and scenic beauty—on this popular comprehensive tour, featuring many World Heritage sites, from the Dordogne region to the Loire, Normandy, and Paris.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUvNJ8dYeT-nMDnVLLRn7fPhk41hhFnUzYA&usqp=CAU"
+    },
+    {
+        "discount": 20,
+        "name": "Italy",
+        "cost": 8000,
+        "days": 6,
+        "discription": "As the world leader in travel experiences since 1947, we connect you to the real Italy in a way like no other. From the canals of Venice to the hills of Tuscany, we explore the pockets of Italy that make this country a classic.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZt8NFrHGYRJ-aSClFd5vB854U54M_ot1JQ&usqp=CAU"
+    },
+    {
+        "discount": 20,
+        "name": "Canada",
+        "cost": 500,
+        "day": 4,
+        "discription": "Oh Canada! Arguably one of the most idyllic travel destinations on the planet, there’s literally nothing this outrageously beautiful country doesn’t offer – awesome cities, first class food, magnificent nature, the best winter sports scene in the world",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZgwUa8B7MlmqCWAkj3AONFmEezKjkUS-KQ&usqp=CAU"
+    },
+    {
+        "discount": 10,
+        "name": "England",
+        "cost": 1000,
+        "days": 6,
+        "discription": "Consisting of England, Scotland, Wales, and Northern Ireland, the United Kingdom (UK) has long been one of Europe's most popular tourist destinations. The country's appeal has much to do with its diverse scenery and rich cultural heritage. ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrTUYbJo4TMdlko-QaV7ofWXfjHLKA3qvFw&usqp=CAU"
+    },
+    {
+        "discount": 10,
+        "name": "Portugal",
+        "cost": 3000,
+        "days": 5,
+        "discription": "From the historic cities of Lisbon and Porto to the tiny cobbled villages of the north, the vast wine region to the wild Atlantic coast, there is certainly no shortage of beautiful places in Portugal to capture travellers’ imaginations.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kRZTbqSX3CIEjiIRfxJ2wPnwRT-5s0A6GQ&usqp=CAU"
+    },
+    {
+        "discount": 10,
+        "name": "New Zealand ",
+        "cost": 5000,
+        "days": 3,
+        "discription": "New Zealand is renowned for it’s beautiful and varied landscapes; from white sandy beaches to rugged snow-capped mountains and lush green rainforest, New Zealand is a tiny country that packs a scenic punch!  Combine that with crazy adventure activities, epic hikes",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnjU7q8rXUA4RgKxkZ2QqkP4oZy4426xI9w&usqp=CAU"
+    },
+    {
+        "discount": 10,
+        "name": "Germany",
+        "cost": 6000,
+        "days": 7,
+        "discription": "Full of culture, lively locals and some great beer, Germany is home to many captivating travel destinations. Whether you're looking to soak up art, culture and history or party at Oktoberfest, this country appeals to a variety of tourists. U.S. News weighed factors like sights",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ3RUAOzPrGuINzKXws98I8bxi_4JGVpwv5A&usqp=CAU"
+    },
+    {
+        "discount": 5,
+        "name": "Dubai",
+        "cost": 2000,
+        "days": 5,
+        "discription": "Dubai is famous for sightseeing attractions such as the Burj Khalifa (the world's tallest building) and shopping malls that come complete with mammoth aquariums and indoor ski slopes.Take a wander around the Al Fahidi quarter, and you'll discover the Dubai of old",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXFAbJUx8GbAXVCN_fib1e1nIWnSnE_343g&usqp=CAU"
+    }
+]
