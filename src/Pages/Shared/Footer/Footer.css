@@ -1,9 +1,12 @@
 .footer{
     
-   padding-top: 50vh;
+    margin-top: 10px;
+   
+    padding: 20px;
+    
 background-color:seagreen;
 padding: 10px; 
-margin-bottom: 10px;  
+
     
     
 }
