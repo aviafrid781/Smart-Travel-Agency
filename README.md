@@ -4,4 +4,4 @@
 ### if you are not login you cantnot enter priavte route.they redirect to login page.after login you redirect to the previous page
 ### You can add Service store data into database,You can show your all orders into 'my order' router, also see all oders of all customers into'manage Order router'
 ### if you login,you can see 3 more router, 'my orders','manage all orders','add service'
-live link: https://festive-nightingale-7529e0.netlify.app/
+live link: https://hardcore-ardinghelli-6b04b3.netlify.app/
