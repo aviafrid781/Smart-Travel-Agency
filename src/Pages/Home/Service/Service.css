@@ -1,10 +1,11 @@
 .service{
+    display: flex;
+    justify-content: center;
     background-color:cornsilk;
     border-radius: 20px;
-
 }
 .service img{
-    width: 100%;
+    width: 90%;
 }
 .discount
 {

@@ -1,18 +1,16 @@
-.footer{
-    
+.footer{ 
     margin-top: 10px;
-
     margin-bottom: 10px; 
-background-color:seagreen;
-
-    
-    
+background-color:seagreen;  
 }
 
 .footer-text{
+    display: flex;
+    justify-content: space-around;
     color:black;
     font-size: 1em;
     font-weight: 400;
+    
 }
 .social-media i{
     color: white;

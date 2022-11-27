@@ -6,14 +6,14 @@ const ManageOrder = () => {
     const [manageOrders, setManageOrders] = useState([]);
 
     useEffect(() => {
-        fetch("https://dark-barrow-71379.herokuapp.com/orders")
+        fetch("https://form-server-hryl.vercel.app/orders")
             .then(res => res.json())
             .then(data => setManageOrders(data))
     }, [])
 
 
     const handelDelete = (id) => {
-        const url = `https://dark-barrow-71379.herokuapp.com/orders/${id}`;
+        const url = `https://form-server-hryl.vercel.app/orders/${id}`;
         fetch(url, {
             method: "DELETE"
         })

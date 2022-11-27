@@ -21,8 +21,6 @@ const Header = () => {
                     <Navbar.Collapse className="justify-content-end">
                         {/* <Nav.Link as="/home">Home</Nav.Link> */}
                         < Nav.Link as={Link} to="/home">Home</Nav.Link>
-
-
                         {user?.email ? <>
                             < Nav.Link as={Link} to="/addServices">Add Services</Nav.Link>
                             < Nav.Link as={Link} to="/myOrder">My Order</Nav.Link>
@@ -31,15 +29,9 @@ const Header = () => {
 
                         </> :
                             < Nav.Link as={Link} to="/login">Login</Nav.Link>}
-
-
-
                         {
                             user.email && <span className="text-light me-4">welcome {user.email.substring(0, user.email.lastIndexOf("@"))} </span>
-
                         }
-
-
 
                     </Navbar.Collapse>
 

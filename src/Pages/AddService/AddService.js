@@ -1,19 +1,13 @@
 import axios from 'axios';
 import React from 'react';
-import { findAllInRenderedTree } from 'react-dom/test-utils';
 import { useForm } from "react-hook-form";
 import './AddService.css'
-
 const AddService = () => {
-
     const { register, handleSubmit, reset } = useForm();
-
     const onSubmit = data => {
-
         console.log(data);
         //use axios for post API
-
-        axios.post('https://dark-barrow-71379.herokuapp.com/services', data)
+        axios.post('https://form-server-hryl.vercel.app/services', data)
             .then(res => {
                 if (res.data.insertedId) {
                     alert('added Successfully');

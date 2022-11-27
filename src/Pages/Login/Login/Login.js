@@ -10,8 +10,6 @@ import './Login.css'
 
 const Login = () => {
 
-
-
     const { user, setIsLoading, setUser, signInUsingGoogle } = useAuth();
 
     const location = useLocation();
